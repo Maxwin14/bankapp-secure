@@ -1,0 +1,20 @@
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Java / Maven
+target/
+*.class
+
+# Node
+node_modules/
+dist/
+
+# Environment secrets
+.env
+*.env
+!*.env.example
+
+# Logs
+*.log
