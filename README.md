@@ -42,13 +42,16 @@ Important: if an old real database password was committed before, change that My
 ## 📸 Screenshots
 
 ### 1. Secure Login & Registration
-<img width="743" height="670" alt="Login screen" src="https://github.com/user-attachments/assets/1467fdc1-1262-4c6d-9824-3b0c325b832c" />
+<img width="743" height="670" alt="image" src="https://github.com/user-attachments/assets/0984321a-2c58-4b64-a1a0-abce6099aa20" />
+
 
 ### 2. Main Dashboard & Wallet
-<img width="1279" height="889" alt="Dashboard" src="https://github.com/user-attachments/assets/b9166ead-0172-43cb-afe0-e853a87fcba6" />
+<img width="1279" height="889" alt="image" src="https://github.com/user-attachments/assets/5ea6bb4d-14d3-44b7-80ce-c15be0c0ace1" />
+
 
 ### 3. Transaction History
-<img width="1406" height="765" alt="Transaction history" src="https://github.com/user-attachments/assets/ef92daa6-6fbb-41e5-96e1-9695dd9a3680" />
+<img width="1406" height="765" alt="image" src="https://github.com/user-attachments/assets/2cb84200-7d8a-4549-b210-440ffed51389" />
+
 
 ## 🚀 How to Run Locally
 
